@@ -1,9 +1,5 @@
-<p align="center">
-  <h2>Hi 👋 I'm Dulari Dayananda</h2>
-  <h3>🏫 I am a Software Engineering undergraduate at <br> 
-  Sabaragamuwa University of Sri Lanka.</h3>
-</p>
-
+## Hi👋I'm Dulari Dayananda
+### 🏫 I am a Software Engineering undergraduate at Sabaragamuwa University of Sri Lanka. 
 
 <!--
 **dwathsala/dwathsala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
