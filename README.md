@@ -2,11 +2,13 @@
 <h3 align="center">Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=dwathsala&color=blue)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=radical)
 
 ### About Me
-- 🚀 I’m currently learning **python**
+- 🚀 I’m currently learning **python**\n
 - 📫 How to reach me: **dulariwathsala824@gmail.com**
 
 ### Connect with Me
