@@ -18,7 +18,7 @@
 ### 🚀 Languages and Tools:
 <p>
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="40" height="40"/>
+    <img src="[https://cdn-icons-png.flaticon.com/128/174/174854.png](https://cdn-icons-png.flaticon.com/128/888/888859.png)" alt="HTML" width="40" height="40"/>
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -38,7 +38,7 @@
   </a>
   
   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5315/5315335.png" alt="C" width="40" height="40"/>
+    <img src="[https://cdn-icons-png.flaticon.com/128/5315/5315335.png](https://cdn-icons-png.flaticon.com/128/919/919836.png)" alt="C" width="40" height="40"/>
   </a>
 </p>
 
