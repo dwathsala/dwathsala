@@ -3,11 +3,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=dwathsala&color=blue)
 
-### About Me:
+### About Me
 - 🚀 I’m currently learning **python**
 - 📫 How to reach me: **dulariwathsala824@gmail.com**
 
-### Connect with Me:
+### Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### Languages and Tools:
+### Languages and Tools
 <p>
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="HTML" width="40" height="40"/>
