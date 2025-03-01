@@ -6,7 +6,7 @@
 - 📫 How to reach me: **dulariwathsala824@gmail.com**
 
 ### 📡 Connect with Me:
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
   </a>
