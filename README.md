@@ -3,8 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=dwathsala&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=radical&bg_color=0D1117&title_color=#FFFFFF)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=radical&bg_color=808080&title_color=00008B)
 
 ### About Me
 - 🚀 I’m currently learning **python**\n
