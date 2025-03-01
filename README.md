@@ -9,10 +9,10 @@
 ### 📡 Connect with Me:
 <p align="center">
   <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/dulari-dayananda-25b92a305?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhdxWCKSkRmKDKkLvIAN4Eg%3D%3D)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)" alt="LinkedIn">
+    <img src="[[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://cdn-icons-png.flaticon.com/128/174/174857.png)" alt="LinkedIn">
   </a>
   <a href="[https://github.com/YOUR_GITHUB_PROFILE](https://github.com/dwathsala)" target="_blank">
-    <img src="[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)" alt="GitHub">
+    <img src="[[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)](https://cdn-icons-png.flaticon.com/128/733/733609.png)" alt="GitHub">
   </a>
 </p>
 
