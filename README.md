@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dulari Dayananda</h1>
 <h3 align="center">Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=dwathsala&color=blue)
+
 ### 🌱 About Me:
 - 🚀 I’m currently learning **python**
 - 📫 How to reach me: **dulariwathsala824@gmail.com**
