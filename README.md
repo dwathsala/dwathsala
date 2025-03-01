@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=dwathsala&color=blue)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=pie&theme=github)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dwathsala&theme=github)
 
 
 ### About Me
