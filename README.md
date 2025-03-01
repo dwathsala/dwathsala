@@ -1,5 +1,8 @@
-## Hi👋I'm Dulari Dayananda
-### 🏫 I am a Software Engineering undergraduate at Sabaragamuwa University of Sri Lanka.
+<p align="center">
+  <h2>Hi 👋 I'm Dulari Dayananda</h2>
+  <h3>🏫 I am a Software Engineering undergraduate at <br> 
+  Sabaragamuwa University of Sri Lanka.</h3>
+</p>
 
 
 <!--
