@@ -3,8 +3,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=dwathsala&color=blue)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dwathsala&theme=github)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dwathsala&theme=github)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=pie&theme=github)
+
 
 ### About Me
 - 🚀 I’m currently learning **python**\n
