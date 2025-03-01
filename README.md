@@ -18,7 +18,7 @@
 ### 🚀 Languages and Tools:
 <p>
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="[https://cdn-icons-png.flaticon.com/128/174/174854.png](https://cdn-icons-png.flaticon.com/128/888/888859.png)" alt="HTML" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="HTML" width="40" height="40"/>
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank">
