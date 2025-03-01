@@ -4,20 +4,31 @@
 ### 🌱 About Me:
 - 🚀 I’m currently learning **python**
 - 📫 How to reach me: **dulariwathsala824@gmail.com**
-  
 
 ### 📡 Connect with Me:
 <p align="center">
+  <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/dwathsala" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
+  </a>
+</p>
+
+  
+
+<!--### 📡 Connect with Me:
+<p align="center">
   <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/dulari-dayananda-25b92a305?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhdxWCKSkRmKDKkLvIAN4Eg%3D%3D)" target="_blank">
-    <img src="[[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://cdn-icons-png.flaticon.com/128/174/174857.png)" alt="LinkedIn">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://cdn-icons-png.flaticon.com/128/174/174857.png)" alt="LinkedIn">
   </a>
   <a href="[https://github.com/YOUR_GITHUB_PROFILE](https://github.com/dwathsala)" target="_blank">
-    <img src="[[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)](https://cdn-icons-png.flaticon.com/128/733/733609.png)" alt="GitHub">
+    <img src="[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)](https://cdn-icons-png.flaticon.com/128/733/733609.png)" alt="GitHub">
   </a>
 </p>
 
 
-<!--### 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_PROFILE" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
