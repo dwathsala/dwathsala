@@ -43,7 +43,7 @@
     <img src="https://static-00.iconduck.com/assets.00/c-plain-icon-894x1024-0mfgph47.png" alt="C" width="40" height="40"/>
   </a>
 
-<a href="[https://www.w3schools.com/java/](https://www.w3schools.com/MySQL/default.asp)" target="_blank">
+<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="mysql" width="40" height="40"/>
   </a>
 </p>
