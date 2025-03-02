@@ -6,7 +6,7 @@
 <!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=pie&theme=github) -->
 
 ### About Me
-- 🚀 I’m currently learning **python**\n
+- 🚀 I’m currently learning **python**
 - 📫 How to reach me: **dulariwathsala824@gmail.com**
 
 ### Connect with Me
