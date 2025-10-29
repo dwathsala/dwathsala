@@ -57,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" height="200" width="400/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" height="200"  width="400"/>
 </p>
 
 <p align="center">
