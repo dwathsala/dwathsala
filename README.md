@@ -6,11 +6,13 @@
 <!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=pie&theme=github) -->
 
 ### About Me
-🚀 I’m currently learning **MERN** 
+
+<!--- 🚀 I'm currently learning **python** -->
 
 📫 How to reach me: **dulariwathsala824@gmail.com**
 
 ### Connect with Me
+
 <p>
   <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn">
@@ -21,6 +23,7 @@
 </p>
 
 ### Languages and Tools
+
 <p>
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="HTML" width="30" height="30"/>
@@ -45,11 +48,22 @@
   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/c-plain-icon-894x1024-0mfgph47.png" alt="C" width="30" height="30"/>
   </a>
-
-<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
+  
+  <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="mysql" width="30" height="30"/>
   </a>
 </p>
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwathsala&theme=dark&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</p>
