@@ -54,7 +54,7 @@
   </a>
 
   <a href="https://react.dev/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw1-8LE8FqtObGEWSfTIz-XG&ust=1761934411852000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNia99TDzJADFQAAAAAdAAAAABAE" alt="Java" width="30" height="30"/>
+    <img src="" alt="react" width="30" height="30"/>
   </a>
 </p>
 
