@@ -54,8 +54,7 @@
   </a>
 
   <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
-    <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f53ed423-ceec-4428-9198-f6afbf277d98" />
-" alt="ract" width="30" height="30"/>
+    <img src="" alt="ract" width="30" height="30"/>
   </a>
 
   
