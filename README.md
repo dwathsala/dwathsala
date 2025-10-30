@@ -45,8 +45,16 @@
     <img src="https://static-00.iconduck.com/assets.00/c-plain-icon-894x1024-0mfgph47.png" alt="C" width="30" height="30"/>
   </a>
 
-<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
+  <ahref="https://www.w3schools.com/MySQL/default.asp" target="_blank">
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="mysql" width="30" height="30"/>
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+  </a>
+  
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
   </a>
 </p>
 
