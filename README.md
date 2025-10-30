@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dulari Dayananda</h1>
 <h3 align="center">Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</h3>
-
 ![Profile views](https://komarev.com/ghpvc/?username=dwathsala&color=blue)
-
 <!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=pie&theme=github) -->
-
 ### About Me
-
 <!--- 🚀 I'm currently learning **python** -->
-
 📫 How to reach me: **dulariwathsala824@gmail.com**
-
 ### Connect with Me
-
 <p>
   <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn">
@@ -21,9 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub">
   </a>
 </p>
-
 ### Languages and Tools
-
 <p>
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="HTML" width="30" height="30"/>
@@ -50,25 +41,21 @@
   </a>
   
   <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
-    <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="MySQL" width="30" height="30"/>
+    <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="mysql" width="30" height="30"/>
   </a>
-  
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+  <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ract" width="30" height="30"/>
   </a>
-  
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
   </a>
+  
 </p>
-
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" width="400"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwathsala&theme=dark&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
