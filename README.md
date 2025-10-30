@@ -20,6 +20,9 @@
   <a href="https://medium.com/@dulariwathsala824" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30" height="30" alt="Medium">
   </a>
+  <a href="https://stackoverflow.com/users/30422860/dulari-dayananda" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" height="30" alt="Stack Overflow">
+  </a>
 </p>
 
 ### Languages and Tools
