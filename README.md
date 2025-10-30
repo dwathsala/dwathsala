@@ -18,7 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub">
   </a>
   <a href="https://medium.com/@dulariwathsala824" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30" height="30" alt="Medium">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" height="30" alt="Medium">
   </a>
 </p>
 
