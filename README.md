@@ -52,6 +52,10 @@
   <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="mysql" width="30" height="30"/>
   </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://www.google.com/imgres?q=react%20js&imgurl=https%3A%2F%2Fbilginc.com%2FeditorFiles%2F3147aa77.png&imgrefurl=https%3A%2F%2Fbilginc.com%2Ffr%2Fblog%2Fa-beginners-guide-to-react-js-2023-edition-5806%2F&docid=ZneyLz7NdJSfAM&tbnid=vlpoXJ7hFRJc9M&vet=12ahUKEwiK2K_0wsyQAxU8dPUHHYf8FtIQM3oECBoQAA..i&w=522&h=343&hcb=2&ved=2ahUKEwiK2K_0wsyQAxU8dPUHHYf8FtIQM3oECBoQAA" alt="Java" width="30" height="30"/>
+  </a>
 </p>
 
 ### 📊 GitHub Stats
