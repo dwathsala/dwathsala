@@ -53,9 +53,12 @@
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="mysql" width="30" height="30"/>
   </a>
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="" alt="react" width="30" height="30"/>
+  <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
+    <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f53ed423-ceec-4428-9198-f6afbf277d98" />
+" alt="ract" width="30" height="30"/>
   </a>
+
+  
 </p>
 
 ### 📊 GitHub Stats
