@@ -18,8 +18,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub">
   </a>
   <a href="https://medium.com/@dulariwathsala824" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" width="30" height="30" alt="Medium">
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="30" height="30" alt="Medium">
+  </a>
 </p>
 
 ### Languages and Tools
