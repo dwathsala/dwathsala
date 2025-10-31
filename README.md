@@ -74,6 +74,10 @@
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="30" height="30"/>
   </a>
+
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" height="30"/>
+  </a>
 </p>
 
 ### 📊 GitHub Stats
