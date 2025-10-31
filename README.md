@@ -48,7 +48,7 @@
   </a>
   
   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/c-plain-icon-894x1024-0mfgph47.png" alt="C" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/>
   </a>
 
   <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
@@ -69,6 +69,10 @@
 
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+  </a>
+
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="30" height="30"/>
   </a>
 </p>
 
