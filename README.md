@@ -66,6 +66,10 @@
   <a href="https://supabase.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="30" height="30"/>
   </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+  </a>
 </p>
 
 ### 📊 GitHub Stats
