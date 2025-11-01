@@ -78,6 +78,10 @@
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</a>
 </p>
 
 ### 📊 GitHub Stats
