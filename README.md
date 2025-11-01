@@ -94,7 +94,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
 </p>
 
-<-- <p align="center">
+<!-- GitHub Activity Graph -->
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwathsala&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p> -->
 
