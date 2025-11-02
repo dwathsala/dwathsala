@@ -7,6 +7,7 @@
 
 ### About Me
 🚀 I’m currently learning **MERN**
+
 📫 How to reach me: **dulariwathsala824@gmail.com**
 
 ### Connect with Me
