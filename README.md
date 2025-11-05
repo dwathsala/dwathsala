@@ -101,6 +101,6 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dwathsala&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dwathsala&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats" />
 </p>
 
