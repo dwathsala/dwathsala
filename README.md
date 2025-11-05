@@ -96,12 +96,10 @@
 </p>
 
 <!-- GitHub Activity Graph -->
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwathsala&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p> -->
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwathsala&theme=dark&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats" height="200"/>
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwathsala&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p> 
+
+
 
 
