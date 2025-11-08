@@ -108,15 +108,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwathsala&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
-### 🔥 Contribution Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwathsala&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 
 
