@@ -10,6 +10,8 @@
 
 📫 How to reach me: **dulariwathsala824@gmail.com**
 
+😉 Fun fact Call me as **Dula**
+
 ### Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
