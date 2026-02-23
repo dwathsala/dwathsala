@@ -104,9 +104,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dwathsala&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=dwathsala&theme=dark&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats" height="200"/>
 </p>
 
