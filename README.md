@@ -6,7 +6,7 @@
 <!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=pie&theme=github) -->
 
 ### About Me
-🚀 I’m currently learning **MERN**
+🚀 I’m currently learning **MERN and Python**
 
 📫 How to reach me: **dulariwathsala824@gmail.com**
 
@@ -15,7 +15,7 @@
 ### Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn">
   </a>
   <a href="https://github.com/dwathsala" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
