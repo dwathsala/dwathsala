@@ -33,67 +33,51 @@
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="HTML" width="30" height="30"/>
   </a>
-  
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/16183/16183567.png" alt="CSS" width="30" height="30"/>
   </a>
-  
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="30" height="30"/>
   </a>
-  
   <a href="https://www.w3schools.com/python/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="30" height="30"/>
   </a>
-  
   <a href="https://www.w3schools.com/java/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="30" height="30"/>
   </a>
-  
   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/>
   </a>
-
   <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="mysql" width="30" height="30"/>
   </a>
-
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
   </a>
-
   <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30"/>
   </a>
-  
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
   </a>
-
   <a href="https://supabase.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="30" height="30"/>
   </a>
-
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
   </a>
-
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
   </a>
-
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" height="30"/>
   </a>
-
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/>
   </a>
-
   <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
   </a>
-  
 </p>
 
 
