@@ -51,3 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
 </p>
+
+---
+
+### Most Used Languages
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_progress=false&title_color=ff4d8d&text_color=ffffff&bg_color=0d1117&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
