@@ -55,4 +55,7 @@
 ---
 
 ### Most Used Languages
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&langs_count=6&hide_progress=false&custom_title=Most%20Used%20Languages&title_color=ff4d8d&text_color=ffffff&bg_color=15141b&border_color=15141b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&langs_count=6&hide_progress=false&custom_title=Most%20Used%20Languages&title_color=ff4d8d&text_color=ffffff&bg_color=15141b&hide_border=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&langs_count=6&hide_progress=false&custom_title=Most%20Used%20Languages&title_color=ff4d8d&text_color=ffffff&bg_color=15141b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
