@@ -32,11 +32,10 @@
 
 ---
 
-## 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
 
-<!-- Programming Languages -->
 <a href="https://www.java.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
 </a>
@@ -61,7 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 </a>
 
-<!-- Frontend -->
 <a href="https://react.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 </a>
@@ -78,7 +76,6 @@
   <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/>
 </a>
 
-<!-- Backend -->
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
 </a>
@@ -87,7 +84,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
 </a>
 
-<!-- Databases -->
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 </a>
@@ -101,14 +97,13 @@
 </a>
 
 <a href="https://supabase.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
+  <img src="https://supabase.com/icons/supabase-logo.svg" width="40" height="40" alt="Supabase"/>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
 </a>
 
-<!-- Tools -->
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 </a>
@@ -141,4 +136,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 </a>
 
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Dulari's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  </a>
 </p>
