@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=dwathsala&color=blue" alt="profile views"/>
 </p>
 
-### About Me
+### 👤 About Me
 🚀 I’m currently learning **MERN, Python, React Native and .NET**
 
 📫 How to reach me: **dulariwathsala824@gmail.com**
@@ -14,7 +14,7 @@
 
 ---
 
-### Connect with Me
+### 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
@@ -32,7 +32,7 @@
 
 ---
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 <p align="left">
 
@@ -97,12 +97,8 @@
 </a>
 
 <a href="https://supabase.com/" target="_blank">
-  <img src="https://supabase.com/icons/supabase-logo.svg" width="40" height="40" alt="Supabase"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
+</a> 
 
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
@@ -140,7 +136,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
