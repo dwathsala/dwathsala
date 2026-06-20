@@ -6,7 +6,7 @@
 </p>
 
 ### 👤 About Me
-🚀 I’m currently learning **MERN, Python, React Native and .NET**
+🚀 I’m currently learning **MERN, Python, React Native and Selenium For Tesr Automation.**
 
 📫 How to reach me: **dulariwathsala824@gmail.com**
 
@@ -130,6 +130,10 @@
 
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
 </a>
 
 </p>
