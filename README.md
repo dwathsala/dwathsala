@@ -1,8 +1,10 @@
 <div align="center">
 
 # Dulari Dayananda
+**Software Engineering Undergraduate - Sabaragamuwa University of Sri Lanka**
+<br>
 
-**Software Engineering Undergraduate · Sabaragamuwa University of Sri Lanka**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0969DA&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;QA+%26+Test+Automation+Engineer;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dwathsala&color=0969da&style=flat-square&label=Profile+Views)](https://github.com/dwathsala)
 &nbsp;
@@ -48,13 +50,57 @@ I am a Software Engineering undergraduate passionate about building reliable, sc
 
 ---
 
+## 🧪 QA Engineering Focus
+
+Quality assurance is at the core of how I approach software. I believe reliable software is built through disciplined testing practices, not just good code.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+**Manual Testing**
+- Test case design & execution
+- Exploratory testing
+- Requirements analysis
+- Bug reporting & tracking (Jira)
+
+    </td>
+    <td width="33%" valign="top">
+
+**Test Automation**
+- Selenium WebDriver (Java)
+- Page Object Model (POM)
+- Data-driven testing
+- Cross-browser testing
+
+    </td>
+    <td width="33%" valign="top">
+
+**API & Integration Testing**
+- REST API testing (Postman)
+- Functional & regression testing
+- End-to-end test coverage
+- CI/CD pipeline integration
+
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=github_dark&langs_count=6&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=dwathsala&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dwathsala&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
