@@ -1,152 +1,68 @@
-<h1 align="center">Hi 👋, I'm Dulari Dayananda</h1>
-<h3 align="center">Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dwathsala&color=blue" alt="profile views"/>
-</p>
+# Dulari Dayananda
 
-### 👤 About Me
-🚀 I’m currently learning **MERN, Python, React Native and Selenium For Tesr Automation.**
+**Software Engineering Undergraduate · Sabaragamuwa University of Sri Lanka**
 
-📫 How to reach me: **dulariwathsala824@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=dwathsala&color=0969da&style=flat-square&label=Profile+Views)](https://github.com/dwathsala)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulari-dayananda-25b92a305)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dwathsala)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dulariwathsala824)
+&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30422860/dulari-dayananda)
 
-😉 Fun fact: Call me as **Dula**
-
----
-
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/dulari-dayananda-25b92a305" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a>
-  <a href="https://github.com/dwathsala" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-  </a>
-  <a href="https://medium.com/@dulariwathsala824" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30"/>
-  </a>
-  <a href="https://stackoverflow.com/users/30422860/dulari-dayananda" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+## About
 
-<p align="left">
+I am a Software Engineering undergraduate passionate about building reliable, scalable software. My focus spans full-stack web development with the MERN stack, mobile development with React Native, and test automation with Selenium. I am committed to writing clean, purposeful code and continuously expanding my engineering skill set.
 
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-</a>
-
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-</a>
-
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-</a>
-
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-</a>
-
-<a href="https://supabase.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
-</a> 
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-</a>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-</a>
-
-<a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
-</a>
-
-</p>
+📬 &nbsp;**dulariwathsala824@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Dulari's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-  </a>
-</p>
+### Frontend & Languages
+
+| | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>**Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>**JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>**TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>**C#** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>**Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>**PHP** |
+
+### Backend & Databases
+
+| | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>**Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>**Express.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>**MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>**PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/><br>**Supabase** | <img src="https://reactnative.dev/img/header_logo.svg" width="40"/><br>**React Native** |
+
+### DevOps, Testing & Tools
+
+| | | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>**Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>**GitHub** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>**Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/><br>**Selenium** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/><br>**Postman** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/><br>**Jira** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br>**Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>**VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>**Linux** |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dwathsala&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwathsala&layout=compact&theme=github_dark&langs_count=6&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaborations, internships, and engineering opportunities.*<br>
+**Let's build something meaningful.**
+
+</div>
