@@ -112,13 +112,6 @@ Quality assurance is at the core of how I approach software. I believe reliable 
 
 </div>
 
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dwathsala&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
 ---
 
 <div align="center">
