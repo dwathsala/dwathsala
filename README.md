@@ -4,7 +4,7 @@
 **Software Engineering Undergraduate - Sabaragamuwa University of Sri Lanka**
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0969DA&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;QA+%26+Test+Automation+Engineer;MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0969DA&center=true&vCenter=true&width=500&lines=QA+%26+Test+Automation+Engineer;Software+Engineering+Undegraduate;Full+Stack+Developer)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dwathsala&color=0969da&style=flat-square&label=Profile+Views)](https://github.com/dwathsala)
 &nbsp;
@@ -22,7 +22,9 @@
 
 ## About
 
-I am a Software Engineering undergraduate passionate about building reliable, scalable software. My focus spans full-stack web development with the MERN stack, mobile development with React Native, and test automation with Selenium, Playwright, and TestNG. I am committed to writing clean, purposeful code and continuously expanding my engineering skill set.
+I am a Software Engineering undergraduate currently working as a Quality Assurance Engineer Intern, with a strong focus on building reliable, scalable software. In my internship, I design and maintain automated test suites using Playwright, and I apply Playwright MCP (Model Context Protocol) and AI agents to accelerate test creation, exploration, and maintenance. I complement this with hands-on manual testing experience, including test case design, exploratory testing, and defect tracking.
+
+Alongside QA, my background spans full-stack web development with the MERN stack, mobile development with React Native, and test automation with Selenium, Playwright, and TestNG. I am committed to writing clean, purposeful code and continuously expanding my engineering skill set.
 
 📬 &nbsp;**dulariwathsala824@gmail.com**
 
@@ -47,6 +49,18 @@ I am a Software Engineering undergraduate passionate about building reliable, sc
 | | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>**Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>**GitHub** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>**Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/><br>**Selenium** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/><br>**Playwright** | <img src="https://testng.org/doc/images/logo.png" width="40"/><br>**TestNG** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/><br>**Postman** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/><br>**Jira** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br>**Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>**VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>**Linux** |
+
+### AI-Assisted Test Automation
+
+| | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/><br>**Playwright** | <img src="https://cdn.simpleicons.org/modelcontextprotocol" width="40"/><br>**MCP** | 🤖<br>**AI Agents** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/><br>**GitHub Actions** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/><br>**Chrome DevTools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>**TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>**Node.js** |
+
+### QA Practices
+
+| | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 📝<br>**Test Case Design** | 🔍<br>**Exploratory Testing** | 🔁<br>**Regression Testing** | 🔌<br>**API Testing** | 🐞<br>**Defect Tracking** | 🧩<br>**End-to-End Testing** | 📊<br>**Test Reporting** | 🌐<br>**Cross-Browser Testing** |
 
 ---
 
